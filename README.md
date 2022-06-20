@@ -1,1 +1,1 @@
-![SCOPED](https://img.shields.io/badge/dynamic/json?label=SCOPED&query=%24.SCOPED%5B%3F%28%40.name%3D%3D%22Pyatoa%22%29%5D.verify&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwangyinz%2Ftest-repo%2Fmain%2Flist.yml)
+![SCOPED](https://img.shields.io/endpoint?url=https://scoped-5eyhfuowbwiy.runkit.sh/MsPASS)
