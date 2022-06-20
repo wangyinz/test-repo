@@ -1,10 +1,12 @@
 {
     "SCOPED": [
         {
-            "name": "MTUQ"
+            "name": "MTUQ",
+            "verify": "containerized"
         },
         {
-            "name": "pyatoa"
+            "name": "Pyatoa",
+            "verify": "containerized"
         }
     ]
 }
