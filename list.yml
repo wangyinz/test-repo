@@ -7,6 +7,10 @@
         {
             "name": "Pyatoa",
             "verify": "containerized"
+        },
+        {
+            "name": "MsPASS",
+            "verify": "containerized"
         }
     ]
 }
